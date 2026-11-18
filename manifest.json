@@ -1,0 +1,11 @@
+{
+ "product": "Agathos 858-2026",
+ "version": "v880.1",
+ "installer": "AgathosSetup858-2026-v880.1.exe",
+ "md5": "61c3cc4875e2a4969f24feb71f0395c0",
+ "size": 70907361,
+ "built": "2026-11-15 09:23",
+ "notes": "v880.1: the Agathos Chart gains the VOLUME GAP indicators on the 15-second tab (Indicators menu: Extreme, 5000 and over, and High, 2000 and over, both adjustable; each gap boxed for 15 minutes, purple when it is absorbed, entry marks with the stop and the one-to-one target), and Rolling Hillside's 21 EMA now follows the price axis when it sits on the left. Both indicators are off until ticked. The trading programs are the owner's live v880 (the model as of November 6), unchanged.",
+ "installer_url": "https://github.com/doomlightgaming-a11y/agathos-858-live/releases/download/v880.1/AgathosSetup858-2026-v880.1.exe",
+ "source": "AgathosSetup858-2026-v880.1.exe"
+}
